@@ -128,15 +128,12 @@ A multi-vendor food ordering platform designed for local street-food clusters an
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dhruv0626&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhruv0626&show_icons=true&theme=tokyonight&hide_border=true)
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv0626&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv0626&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
----
 
 ## 🤝 Let's Connect
 
