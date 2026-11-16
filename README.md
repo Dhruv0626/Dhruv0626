@@ -138,17 +138,21 @@ A multi-vendor food ordering platform designed around local street-food clusters
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dhruv0626&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" width="49%"/>
+**Explore my GitHub repositories and contributions**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv0626&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="49%"/>
+<a href="https://github.com/Dhruv0626?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-Repositories-2563EB?style=for-the-badge&logo=github" alt="Explore Repositories"/>
+</a>
+
+<a href="https://github.com/Dhruv0626?tab=overview">
+  <img src="https://img.shields.io/badge/View-Contributions-16A34A?style=for-the-badge&logo=github" alt="View Contributions"/>
+</a>
 
 </div>
-
----
 
 ## 🤝 Let's Connect
 
