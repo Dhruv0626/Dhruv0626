@@ -1,4 +1,4 @@
-&#x20;\<div align="center">
+<div align="center">
 
 # Hi, I'm Dhruv Bhavsar 👋
 
@@ -6,10 +6,10 @@
 
 Building practical web applications with modern frontend technologies, backend engineering and scalable database solutions.
 
-\<img src="[https://img.shields.io/badge/Focus-Full--Stack%20Development-2563EB?style=for-the-badge](https://img.shields.io/badge/Focus-Full--Stack%20Development-2563EB?style=for-the-badge)" />
-\<img src="[https://img.shields.io/badge/Stack-MERN-16A34A?style=for-the-badge](https://img.shields.io/badge/Stack-MERN-16A34A?style=for-the-badge)" />
+<img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-2563EB?style=for-the-badge" alt="Full Stack Development" />
+<img src="https://img.shields.io/badge/Stack-MERN-16A34A?style=for-the-badge" alt="MERN Stack" />
 
-\</div>
+</div>
 
 ---
 
@@ -30,26 +30,26 @@ I'm an MCA student and Full-Stack Developer interested in building real-world we
 
 ## 🛠️ Technical Skills
 
-### Frontend
+### Frontend Development
 
-\<img src="[https://skillicons.dev/icons?i=html,css,js,ts,react](https://skillicons.dev/icons?i=html,css,js,ts,react)" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" alt="Frontend Technologies" />
 
-### Backend
+### Backend Development
 
-\<img src="[https://skillicons.dev/icons?i=nodejs,express](https://skillicons.dev/icons?i=nodejs,express)" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Technologies" />
 
 ### Database & Cloud
 
-\<img src="[https://skillicons.dev/icons?i=mongodb,mysql,firebase](https://skillicons.dev/icons?i=mongodb,mysql,firebase)" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="Database and Cloud Technologies" />
 
 ### Tools & Development
 
-\<img src="[https://skillicons.dev/icons?i=git,github,vscode,postman](https://skillicons.dev/icons?i=git,github,vscode,postman)" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development Tools" />
 
 ### Other Technologies
 
 - **Authentication:** JWT, Access & Refresh Tokens, OAuth 2.0, RBAC
-- **Real-time:** Socket.IO
+- **Real-time Communication:** Socket.IO
 - **Media Management:** Cloudinary
 - **Payments:** Razorpay
 - **Development:** REST APIs, API Integration, Git & GitHub
@@ -73,7 +73,7 @@ A MERN-based platform for buying and reselling new and used books.
 
 **Technologies:** React · Node.js · Express · MongoDB · Razorpay · Cloudinary
 
-[View Repository →](https://github.com/Dhruv0626/FINDBOOKS)
+🔗 [View Repository](https://github.com/Dhruv0626/FINDBOOKS)
 
 ---
 
@@ -91,7 +91,7 @@ A ride coordination platform connecting passengers with drivers travelling on co
 
 **Technologies:** React · Node.js · Express · MongoDB · Socket.IO · Firebase · Cloudinary
 
-[View Repository →](https://github.com/Dhruv0626/RouteMate)
+🔗 [View Repository](https://github.com/Dhruv0626/RouteMate)
 
 ---
 
@@ -109,7 +109,7 @@ A multi-vendor food ordering platform designed for local street-food clusters an
 
 **Technologies:** MERN Stack · TypeScript · Node.js · Express · MongoDB · Razorpay
 
-[View Repository →](https://github.com/Dhruv0626/StreetBites)
+🔗 [View Repository](https://github.com/Dhruv0626/StreetBites)
 
 ---
 
@@ -126,15 +126,15 @@ A multi-vendor food ordering platform designed for local street-food clusters an
 
 ## 📊 GitHub Activity
 
-\<div align="center">
+<div align="center">
 
-\<img src="[https://github-readme-stats.vercel.app/api?username=Dhruv0626&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=Dhruv0626\&show_icons=true\&theme=tokyonight\&hide_border=true)" />
+<img src="https://github-readme-stats.vercel.app/api?username=Dhruv0626&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
 
-\<br/>
+<br/>
 
-\<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv0626&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv0626\&layout=compact\&theme=tokyonight\&hide_border=true)" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv0626&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 
-\</div>
+</div>
 
 ---
 
@@ -142,16 +142,18 @@ A multi-vendor food ordering platform designed for local street-food clusters an
 
 I'm interested in connecting with developers, collaborating on projects and exploring software development opportunities.
 
-\<div align="center">
+<div align="center">
 
-\<a href="[https://github.com/Dhruv0626](https://github.com/Dhruv0626)"> \<img src="[https://img.shields.io/badge/GitHub-Dhruv0626-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Dhruv0626-181717?style=for-the-badge\&logo=github)" /> \</a>
+<a href="https://github.com/Dhruv0626">
+<img src="https://img.shields.io/badge/GitHub-Dhruv0626-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+</a>
 
-\</div>
+</div>
 
-\<div align="center">
+<div align="center">
 
 ### 💡 Build. Learn. Improve. Repeat. 🚀
 
 ⭐ Thanks for visiting my profile!
 
-\</div>
+</div>
