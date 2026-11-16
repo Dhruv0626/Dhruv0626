@@ -1,169 +1,157 @@
- <!--
-  GitHub Profile README
-  Repository: Dhruv0626/Dhruv0626
--->
+&#x20;\<div align="center">
 
-<div align="center">
-
-# Hey, I'm Dhruv Bhavsar 👋
+# Hi, I'm Dhruv Bhavsar 👋
 
 ### Full-Stack Developer | MERN Stack | TypeScript
 
-Building real-world web applications with modern frontend technologies, scalable backend systems, and practical problem-solving.
+Building practical web applications with modern frontend technologies, backend engineering and scalable database solutions.
 
-<br/>
+\<img src="[https://img.shields.io/badge/Focus-Full--Stack%20Development-2563EB?style=for-the-badge](https://img.shields.io/badge/Focus-Full--Stack%20Development-2563EB?style=for-the-badge)" />
+\<img src="[https://img.shields.io/badge/Stack-MERN-16A34A?style=for-the-badge](https://img.shields.io/badge/Stack-MERN-16A34A?style=for-the-badge)" />
 
-<a href="https://github.com/Dhruv0626">
-  <img src="https://img.shields.io/badge/GitHub-Dhruv0626-181717?style=for-the-badge&logo=github" />
-</a>
-<img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-16A34A?style=for-the-badge" />
-
-</div>
+\</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm an MCA student and aspiring Software Developer interested in building practical, user-focused web applications.
+I'm an MCA student and Full-Stack Developer interested in building real-world web applications.
 
-- 🎓 Currently pursuing Master of Computer Applications (MCA).
-- 💻 Focused on Full-Stack Development using the MERN stack.
-- ⚙️ Interested in backend engineering, REST APIs and database design.
-- 🔐 Working with authentication, authorization and secure application development.
-- 🚀 Building real-world projects that solve practical problems.
-- 📚 Continuously improving my development skills and exploring modern technologies.
+- 🎓 Pursuing Master of Computer Applications (MCA).
+- 💻 Developing full-stack applications using React, Node.js and TypeScript.
+- ⚙️ Interested in REST APIs, backend architecture and database management.
+- 🔐 Working with JWT authentication, OAuth 2.0 and role-based access control.
+- 🚀 Built projects involving e-commerce, ride coordination and multi-vendor food ordering.
+- 📚 Continuously improving my software development and problem-solving skills.
 
-**My development philosophy:** Learn by building, solve real problems, and write maintainable code.
+**My approach:** Build practical solutions, understand the underlying technology and continuously improve code quality.
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Technical Skills
 
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
-</p>
+### Frontend
 
-### Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
+\<img src="[https://skillicons.dev/icons?i=html,css,js,ts,react](https://skillicons.dev/icons?i=html,css,js,ts,react)" />
 
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase" />
-</p>
+### Backend
 
-### Additional Technologies
+\<img src="[https://skillicons.dev/icons?i=nodejs,express](https://skillicons.dev/icons?i=nodejs,express)" />
+
+### Database & Cloud
+
+\<img src="[https://skillicons.dev/icons?i=mongodb,mysql,firebase](https://skillicons.dev/icons?i=mongodb,mysql,firebase)" />
+
+### Tools & Development
+
+\<img src="[https://skillicons.dev/icons?i=git,github,vscode,postman](https://skillicons.dev/icons?i=git,github,vscode,postman)" />
+
+### Other Technologies
 
 - **Authentication:** JWT, Access & Refresh Tokens, OAuth 2.0, RBAC
-- **Real-time Communication:** Socket.IO
-- **Cloud & Media:** Cloudinary
+- **Real-time:** Socket.IO
+- **Media Management:** Cloudinary
 - **Payments:** Razorpay
-- **Database:** MongoDB, SQL fundamentals
 - **Development:** REST APIs, API Integration, Git & GitHub
+- **Database Knowledge:** MongoDB, SQL fundamentals
 
 ---
 
 ## 🚀 Featured Projects
 
-### 01. FindBooks – Online Book Marketplace
+### 📚 01. FindBooks — Book Marketplace
 
-A MERN-based marketplace for buying and reselling new and used books.
+A MERN-based platform for buying and reselling new and used books.
 
-**Key Features**
-- Book discovery, search, categories and filters.
-- Used-book listings with condition-based pricing.
-- Customer, reseller, delivery and admin functionalities.
-- Shopping cart, order management and payment integration.
-- Admin dashboard for managing marketplace operations.
+**Highlights**
 
-**Tech Stack:** React · Node.js · Express.js · MongoDB · Razorpay · Cloudinary · JWT
+- Book discovery, categories, search and filtering.
+- Reseller listings with condition-based pricing.
+- Customer, reseller, delivery and admin roles.
+- Shopping cart, order and payment management.
+- Admin dashboard for marketplace operations.
 
-🔗 [View Repository](https://github.com/Dhruv0626/FINDBOOKS)
+**Technologies:** React · Node.js · Express · MongoDB · Razorpay · Cloudinary
+
+[View Repository →](https://github.com/Dhruv0626/FINDBOOKS)
 
 ---
 
-### 02. RouteMate – Passenger and Driver Coordination Platform
+### 🚗 02. RouteMate — Passenger & Driver Coordination
 
-A ride coordination application that connects passengers with drivers travelling on compatible planned routes.
+A ride coordination platform connecting passengers with drivers travelling on compatible planned routes.
 
-**Key Features**
-- Passenger and driver registration.
-- Driver document verification and approval.
+**Highlights**
+
+- Separate passenger and driver workflows.
+- Driver registration and document verification.
 - Route-based ride discovery and booking.
-- Real-time location updates and communication.
-- Fare calculation, payments and ride reviews.
+- Real-time location updates using Socket.IO.
+- Fare management, payments and ride reviews.
 
-**Tech Stack:** React · Node.js · Express.js · MongoDB · Socket.IO · Firebase · Cloudinary
+**Technologies:** React · Node.js · Express · MongoDB · Socket.IO · Firebase · Cloudinary
 
-🔗 [View Repository](https://github.com/Dhruv0626/RouteMate)
+[View Repository →](https://github.com/Dhruv0626/RouteMate)
 
 ---
 
-### 03. StreetBites – Hyperlocal Street Food Platform
+### 🍔 03. StreetBites — Hyperlocal Food Ordering
 
-A multi-vendor food ordering platform designed around local street-food clusters and multiple food stalls.
+A multi-vendor food ordering platform designed for local street-food clusters and multiple food stalls.
 
-**Key Features**
+**Highlights**
+
 - Customer, vendor, rider and admin roles.
 - Multi-stall food discovery and cart management.
-- Order preparation and pickup coordination.
+- Vendor order preparation and pickup coordination.
 - Rider delivery workflow with OTP verification.
-- Online payment and cash-on-delivery support.
+- Online payments and Cash on Delivery.
 
-**Tech Stack:** MERN Stack · TypeScript · Node.js · Express.js · MongoDB · Razorpay
+**Technologies:** MERN Stack · TypeScript · Node.js · Express · MongoDB · Razorpay
 
-🔗 [View Repository](https://github.com/Dhruv0626/StreetBites)
+[View Repository →](https://github.com/Dhruv0626/StreetBites)
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Currently Focusing On
 
-- Strengthening backend development with Node.js and Express.js.
-- Improving TypeScript and modern React development.
-- Learning better database design and API architecture.
-- Understanding application security and performance.
+- Strengthening Node.js and Express.js backend development.
+- Building better React and TypeScript applications.
+- Improving database design and API architecture.
+- Learning application security and performance optimization.
 - Exploring AI-assisted software development.
-- Improving problem-solving and Data Structures & Algorithms.
+- Practicing Data Structures and Algorithms.
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Activity
 
-<div align="center">
+\<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhruv0626&show_icons=true&theme=tokyonight&hide_border=true" />
+\<img src="[https://github-readme-stats.vercel.app/api?username=Dhruv0626&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=Dhruv0626\&show_icons=true\&theme=tokyonight\&hide_border=true)" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv0626&layout=compact&theme=tokyonight&hide_border=true" />
+\<br/>
 
-<br/>
+\<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv0626&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv0626\&layout=compact\&theme=tokyonight\&hide_border=true)" />
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruv0626&theme=tokyonight&hide_border=true" />
-
-</div>
+\</div>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm interested in connecting with developers, collaborating on projects, and exploring software development opportunities.
+I'm interested in connecting with developers, collaborating on projects and exploring software development opportunities.
 
-<div align="center">
+\<div align="center">
 
-<a href="https://github.com/Dhruv0626">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+\<a href="[https://github.com/Dhruv0626](https://github.com/Dhruv0626)"> \<img src="[https://img.shields.io/badge/GitHub-Dhruv0626-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Dhruv0626-181717?style=for-the-badge\&logo=github)" /> \</a>
 
-</div>
+\</div>
 
----
+\<div align="center">
 
-<div align="center">
-
-### "Build. Learn. Improve. Repeat." 🚀
+### 💡 Build. Learn. Improve. Repeat. 🚀
 
 ⭐ Thanks for visiting my profile!
 
-</div>
+\</div>
